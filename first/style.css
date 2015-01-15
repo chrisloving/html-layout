@@ -33,5 +33,6 @@ html, body {
 	margin: 0 auto;
 	position: absolute;
 	bottom: 0%;
-	background: red;
+	left: 10%;
+	background: gray;
 }
